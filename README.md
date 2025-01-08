@@ -1,8 +1,3 @@
-- 👋 ola, meu nome é Gabriel
-- 👀 vi que você acessou nosso site!
-- 🌱 como podemos ajudar?
-- 💞️ temos várias garotas maravilhosas esperando por você
-- 📫 tem interesse em alguma?
 
 
 <!---
